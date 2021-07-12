@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\VALLI\\Downloads\\joda-time-2.0.jar\\joda-time-2.0.jar",
+        "c:\\Users\\VALLI\\Downloads\\jar_files\\junit-4.12.jar"
+    ]
+}
